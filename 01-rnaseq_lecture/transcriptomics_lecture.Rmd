@@ -1087,7 +1087,7 @@ Synonyms: - (sometimes makes the ambiguity even bigger!!!)
 
 Gene symbols can change over time!
 
-Typically, no 1-1 mapping between different ID types
+Typically, no 1:1 mapping between different ID types
 
 ---
 
